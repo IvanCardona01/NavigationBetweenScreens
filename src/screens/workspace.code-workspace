@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "NavigationApp",
+			"path": "../.."
+		},
+		{
+			"name": "src",
+			"path": "../../../../../RN-Navigation-0.8.0/src"
+		}
+	],
+	"settings": {}
+}
